@@ -1,2 +1,3 @@
-# django-hello-world
-Django Hello World
+# Django Hello World
+
+Basic Django application to use in tutorials.
