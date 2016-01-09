@@ -13,3 +13,5 @@ python manage.py 8080
 ```
 
 This project uses a SQLite database on the file system.
+
+Also note that the settings.py file is optimized to use in production.
